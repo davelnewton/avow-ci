@@ -23,7 +23,7 @@ the personal resources to incur legal fees over an open source project.
 Additionally I don't have the time to invest in dealing with egregious claims and
 accusations as I start a new job and am focused on new successes.
 
-As of April 18, 2014 I will be completely removing this git repository and it's
+As of April 18, 2014 I will be completely removing this git repository and its
 history to comply with my former employer's request.
 
 I can only hope that in the spirit of innovation and open source, my former employer makes
